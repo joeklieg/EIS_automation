@@ -1,0 +1,121 @@
+department,prof_rank,salary,metric
+Biomedical,assistant,84272,average
+Chemical,assistant,78880,average
+Civil & Environmental,assistant,77343,average
+Computer Science(inside engineering),assistant,86679,average
+Electrical & Computer,assistant,83618,average
+Industrial & Manufacturing,assistant,84348,average
+Mechanical,assistant,80475,average
+Metallurgical& Materials,assistant,89976,average
+Other Engineering Disciplines,assistant,88544,average
+Total College,assistant,80668,average
+Biomedical,associate,102055,average
+Chemical,associate,93445,average
+Civil & Environmental,associate,92568,average
+Computer Science(inside engineering),associate,102208,average
+Electrical & Computer,associate,97842,average
+Industrial & Manufacturing,associate,93085,average
+Mechanical,associate,93777,average
+Metallurgical& Materials,associate,100262,average
+Other Engineering Disciplines,associate,100449,average
+Total College,associate,92554,average
+Biomedical,full,145444,average
+Chemical,full,136390,average
+Civil & Environmental,full,125350,average
+Computer Science(inside engineering),full,133720,average
+Electrical & Computer,full,122650,average
+Industrial & Manufacturing,full,124016,average
+Mechanical,full,121383,average
+Metallurgical& Materials,full,145745,average
+Other Engineering Disciplines,full,135936,average
+Total College,full,121332,average
+Biomedical,assistant,83456,median
+Chemical,assistant,82412,median
+Civil & Environmental,assistant,77273,median
+Computer Science(inside engineering),assistant,86396,median
+Electrical & Computer,assistant,82877,median
+Industrial & Manufacturing,assistant,83366,median
+Mechanical,assistant,79908,median
+Metallurgical& Materials,assistant,89565,median
+Other Engineering Disciplines,assistant,89174,median
+Total College,assistant,80356,median
+Biomedical,associate,99805,median
+Chemical,associate,93407,median
+Civil & Environmental,associate,92141,median
+Computer Science(inside engineering),associate,101635,median
+Electrical & Computer,associate,97791,median
+Industrial & Manufacturing,associate,92404,median
+Mechanical,associate,93862,median
+Metallurgical& Materials,associate,102175,median
+Other Engineering Disciplines,associate,98886,median
+Total College,associate,92394,median
+Biomedical,full,142433,median
+Chemical,full,127138,median
+Civil & Environmental,full,123319,median
+Computer Science(inside engineering),full,130265,median
+Electrical & Computer,full,120674,median
+Industrial & Manufacturing,full,124230,median
+Mechanical,full,118393,median
+Metallurgical& Materials,full,137034,median
+Other Engineering Disciplines,full,136483,median
+Total College,full,118050,median
+Biomedical,assistant,88420,upper_decile
+Chemical,assistant,85492,upper_decile
+Civil & Environmental,assistant,84730,upper_decile
+Computer Science(inside engineering),assistant,93874,upper_decile
+Electrical & Computer,assistant,91091,upper_decile
+Industrial & Manufacturing,assistant,NA,upper_decile
+Mechanical,assistant,85604,upper_decile
+Metallurgical& Materials,assistant,NA,upper_decile
+Other Engineering Disciplines,assistant,NA,upper_decile
+Total College,assistant,87748,upper_decile
+Biomedical,associate,113993,upper_decile
+Chemical,associate,103677,upper_decile
+Civil & Environmental,associate,104451,upper_decile
+Computer Science(inside engineering),associate,111182,upper_decile
+Electrical & Computer,associate,106585,upper_decile
+Industrial & Manufacturing,associate,NA,upper_decile
+Mechanical,associate,99259,upper_decile
+Metallurgical& Materials,associate,NA,upper_decile
+Other Engineering Disciplines,associate,NA,upper_decile
+Total College,associate,103891,upper_decile
+Biomedical,full,175226,upper_decile
+Chemical,full,167391,upper_decile
+Civil & Environmental,full,154701,upper_decile
+Computer Science(inside engineering),full,171596,upper_decile
+Electrical & Computer,full,153507,upper_decile
+Industrial & Manufacturing,full,143364,upper_decile
+Mechanical,full,144543,upper_decile
+Metallurgical& Materials,full,179547,upper_decile
+Other Engineering Disciplines,full,165642,upper_decile
+Total College,full,150888,upper_decile
+Biomedical,assistant,81681,lower_decile
+Chemical,assistant,82035,lower_decile
+Civil & Environmental,assistant,78786,lower_decile
+Computer Science(inside engineering),assistant,85969,lower_decile
+Electrical & Computer,assistant,82497,lower_decile
+Industrial & Manufacturing,assistant,NA,lower_decile
+Mechanical,assistant,77591,lower_decile
+Metallurgical& Materials,assistant,NA,lower_decile
+Other Engineering Disciplines,assistant,NA,lower_decile
+Total College,assistant,75826,lower_decile
+Biomedical,associate,92513,lower_decile
+Chemical,associate,90431,lower_decile
+Civil & Environmental,associate,84545,lower_decile
+Computer Science(inside engineering),associate,97094,lower_decile
+Electrical & Computer,associate,90159,lower_decile
+Industrial & Manufacturing,associate,NA,lower_decile
+Mechanical,associate,87129,lower_decile
+Metallurgical& Materials,associate,NA,lower_decile
+Other Engineering Disciplines,associate,NA,lower_decile
+Total College,associate,83168,lower_decile
+Biomedical,full,115256,lower_decile
+Chemical,full,111609,lower_decile
+Civil & Environmental,full,105407,lower_decile
+Computer Science(inside engineering),full,115027,lower_decile
+Electrical & Computer,full,105829,lower_decile
+Industrial & Manufacturing,full,106069,lower_decile
+Mechanical,full,101586,lower_decile
+Metallurgical& Materials,full,121284,lower_decile
+Other Engineering Disciplines,full,116283,lower_decile
+Total College,full,99877,lower_decile
