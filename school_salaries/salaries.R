@@ -54,9 +54,6 @@ decile_vis$metric <- as.factor(decile_vis$metric)
 decile_vis$metric <- factor(decile_vis$metric,
                             levels = c("upper_decile", "average", "median", "lower_decile"))
 
-
-
-
 quartile_vis <- bind_rows(avg, med, upp_quart, low_quart)
 quartile_vis$salary <- as.numeric(quartile_vis$salary)
 quartile_vis$prof_rank <- as.factor(quartile_vis$prof_rank)
@@ -64,19 +61,25 @@ quartile_vis$metric <- as.factor(quartile_vis$metric)
 quartile_vis$metric <- factor(quartile_vis$metric,
                               levels = c("upper_quartile", "average", "median", "lower_quartile"))
 
-total_vis <- bind_rows(decile_vis, quartile_vis)
+total_vis <- bind_rows(avg, med, upp_dec, low_dec, upp_quart, low_quart)
+total_vis$salary <- as.numeric(total_vis$salary)
+total_vis$prof_rank <- as.factor(total_vis$prof_rank)
+total_vis$metric <- as.factor(total_vis$metric)
+total_vis$metric <- factor(total_vis$metric,
+                           levels = c("upper_quartile", "average", "meadian", "lower_quartile"))
 
 write_csv(decile_vis, "~/Desktop/ENG_data_group/school_salaries/salaries_interactive/decile_data")
 write_csv(quartile_vis, "~/Desktop/ENG_data_group/school_salaries/salaries_interactive/quartile_data")
 write_csv(total_vis, "~/Desktop/ENG_data_group/school_salaries/salaries_interactive/total_data")
+write_csv(institutions, "~/Desktop/ENG_data_group/school_salaries/salaries_interactive/institutions")
 
-str(total_vis)
 
 dec <- ggplot(decile_vis, aes(department, salary, color = metric)) + geom_point()
         dec + facet_grid(. ~ prof_rank) +
                 labs(color = "Salary Metric") +
-                scale_y_discrete(breaks = pretty(decile_vis$salary, n = 10)) +
+                scale_y_discrete(breaks = pretty(total_vis$salary, n = 10)) +
                 theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+                expand_limits(y = c(70000, 185000)) +
                 labs(title = "Engineering Salaries by Decile")
 
 quar <- ggplot(quartile_vis, aes(department, salary, color = metric)) + geom_point()
