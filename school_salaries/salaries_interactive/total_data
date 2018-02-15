@@ -119,66 +119,6 @@ Mechanical,full,101586,lower_decile
 Metallurgical& Materials,full,121284,lower_decile
 Other Engineering Disciplines,full,116283,lower_decile
 Total College,full,99877,lower_decile
-Biomedical,assistant,84272,average
-Chemical,assistant,78880,average
-Civil & Environmental,assistant,77343,average
-Computer Science(inside engineering),assistant,86679,average
-Electrical & Computer,assistant,83618,average
-Industrial & Manufacturing,assistant,84348,average
-Mechanical,assistant,80475,average
-Metallurgical& Materials,assistant,89976,average
-Other Engineering Disciplines,assistant,88544,average
-Total College,assistant,80668,average
-Biomedical,associate,102055,average
-Chemical,associate,93445,average
-Civil & Environmental,associate,92568,average
-Computer Science(inside engineering),associate,102208,average
-Electrical & Computer,associate,97842,average
-Industrial & Manufacturing,associate,93085,average
-Mechanical,associate,93777,average
-Metallurgical& Materials,associate,100262,average
-Other Engineering Disciplines,associate,100449,average
-Total College,associate,92554,average
-Biomedical,full,145444,average
-Chemical,full,136390,average
-Civil & Environmental,full,125350,average
-Computer Science(inside engineering),full,133720,average
-Electrical & Computer,full,122650,average
-Industrial & Manufacturing,full,124016,average
-Mechanical,full,121383,average
-Metallurgical& Materials,full,145745,average
-Other Engineering Disciplines,full,135936,average
-Total College,full,121332,average
-Biomedical,assistant,83456,median
-Chemical,assistant,82412,median
-Civil & Environmental,assistant,77273,median
-Computer Science(inside engineering),assistant,86396,median
-Electrical & Computer,assistant,82877,median
-Industrial & Manufacturing,assistant,83366,median
-Mechanical,assistant,79908,median
-Metallurgical& Materials,assistant,89565,median
-Other Engineering Disciplines,assistant,89174,median
-Total College,assistant,80356,median
-Biomedical,associate,99805,median
-Chemical,associate,93407,median
-Civil & Environmental,associate,92141,median
-Computer Science(inside engineering),associate,101635,median
-Electrical & Computer,associate,97791,median
-Industrial & Manufacturing,associate,92404,median
-Mechanical,associate,93862,median
-Metallurgical& Materials,associate,102175,median
-Other Engineering Disciplines,associate,98886,median
-Total College,associate,92394,median
-Biomedical,full,142433,median
-Chemical,full,127138,median
-Civil & Environmental,full,123319,median
-Computer Science(inside engineering),full,130265,median
-Electrical & Computer,full,120674,median
-Industrial & Manufacturing,full,124230,median
-Mechanical,full,118393,median
-Metallurgical& Materials,full,137034,median
-Other Engineering Disciplines,full,136483,median
-Total College,full,118050,median
 Biomedical,assistant,86536,upper_quartile
 Chemical,assistant,83980,upper_quartile
 Civil & Environmental,assistant,82227,upper_quartile
