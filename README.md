@@ -1,3 +1,3 @@
-# EIS_automation
+# ENG_Salary_Visualization
 
-The purpose of this project is to create a pipeline for automated portfolio analysis
+The purpose of this project is to create an interactive visual for visualizaiton of ENG salaries
